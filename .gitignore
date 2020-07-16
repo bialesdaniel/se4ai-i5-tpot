@@ -1,2 +1,4 @@
 env
 .vscode
+tpot-output/cache
+tpot-output/tpot-intermediate-save
